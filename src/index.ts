@@ -115,6 +115,12 @@ export const phoneCodes: PhoneCodes[] = [
         startsWith: '43',
     },
     {
+        mask: '+00(000)000-00000',
+        lazy: false,
+        country: 'Austria',
+        startsWith: '43',
+    },
+    {
         mask: '+00-0-0000-0000',
         lazy: false,
         country: 'Australia',
