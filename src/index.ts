@@ -415,6 +415,12 @@ export const phoneCodes: PhoneCodes[] = [
         startsWith: '49',
     },
     {
+        mask: '+00(0000)000-0000000',
+        lazy: false,
+        country: 'Germany',
+        startsWith: '49',
+    },
+    {
         mask: '+000-00-00-00-00',
         lazy: false,
         country: 'Djibouti',
