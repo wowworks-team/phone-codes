@@ -1,6 +1,6 @@
 {
   "name": "@wowworks/phone-codes",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Phone codes for input masks",
   "repository": {
     "type": "git",

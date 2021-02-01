@@ -1867,8 +1867,8 @@ export const phoneCodes: PhoneCodes[] = [
         startsWith: '1',
     },
     {
-        mask: '000',
-        country: 'unknowed',
+        mask: '00000000000000000000',
+        country: 'unknown',
         startsWith: '',
     },
 ];
