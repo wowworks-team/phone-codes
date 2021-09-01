@@ -1453,6 +1453,12 @@ export const phoneCodes: PhoneCodes[] = [
         startsWith: '7',
     },
     {
+        mask: '0(000)000-00-00',
+        lazy: false,
+        country: 'Russia',
+        startsWith: '8',
+    },
+    {
         mask: '+000(000)000-000',
         lazy: false,
         country: 'Rwanda',
